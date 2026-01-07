@@ -1,5 +1,5 @@
 {
-    "name": "Rosie Blue",
+    "name": "Rosie Blue - Edit",
     "description": "Blue rosie theme",
     "version": "2.1",
     "authors": [
@@ -38,7 +38,7 @@
         "HEADER_PRIMARY": [ "#a1b7ff" ],
         "HEADER_SECONDARY": [ "#fffeff" ],
         "INPUT_BACKGROUND": [ "#16151b" ],
-        "INTERACTIVE_ACTIVE": [ "#ffffff" ],
+        "INTERACTIVE_ACTIVE": [ "#a373e6" ],
         "INTERACTIVE_HOVER": [ "#dedcde" ],
         "INTERACTIVE_MUTED": [ "#8a8ebf" ],
         "INTERACTIVE_NORMAL": [ "#fffeff" ],
