@@ -1,14 +1,15 @@
 {
     "name": "Rosie Blue",
-    "description": "🐱",
+    "description": "Blue rosie theme",
     "version": "2.0",
     "authors": [
       {
-        "name": "Moodles",
+        "name": "Mudrhiod",
         "id": "807170846497570848"
       }
     ],
     "semanticColors": {
+        "ACTION_SHEET_GRADIENT_BG": [ "#1c1b22" ],
         "ANDROID_RIPPLE": [ "#535260" ],
         "BACKGROUND_ACCENT": [ "#B5BDFF" ],
         "BACKGROUND_MENTIONED": [ "#97B9F417" ],
@@ -18,12 +19,13 @@
         "BACKGROUND_MODIFIER_ACTIVE": [ "#ffffff14" ],
         "BACKGROUND_MODIFIER_HOVER": [ "#ffffff05" ],
         "BACKGROUND_MODIFIER_SELECTED": [ "#ffffff0a" ],
-        "BACKGROUND_MOBILE_PRIMARY": [ "#18161C" ],
+        "BACKGROUND_MOBILE_PRIMARY": [ "#1c1b22" ],
         "BACKGROUND_MOBILE_SECONDARY": [ "#23232b" ],
         "BACKGROUND_NESTED_FLOATING": [ "#25242d" ],
         "BACKGROUND_PRIMARY": [ "#24232b" ],
         "BACKGROUND_SECONDARY": [ "#2B2833" ],
         "BACKGROUND_SECONDARY_ALT": [ "#19191f" ],
+        "BG_SURFACE_RAISED": [ "#18161C" ],
         "BORDER_FAINT": [ "#494C69" ], 
         "CARD_PRIMARY_BG": [ "#24232b" ],
         "CARD_PRIMARY_PRESSED_BG": [ "#535260" ],
@@ -76,7 +78,7 @@
         "PRIMARY_660": "#16151b",
         "PRIMARY_700": "#16151b",
         "PRIMARY_730": "#2B2833",
-        "PRIMARY_800": "#212027",
+        "PRIMARY_800": "#000000",
         "PLUM_10": "#848494",
         "PLUM_15": "#B5BDFF",
         "PLUM_16": "#25262e",
@@ -101,6 +103,8 @@
         "BRAND_630": "#6880A8",
         "BRAND_660": "#637BA0",
         "BRAND_700": "#60779B",
+        "CHAT_MENTIONS_BACKGROUND_DARK": "#9EC1FF4D",
+        "CHAT_MENTIONS_FOREGROUND_DARK": "#9EC1FF",
         "GUILD_BOOSTING_BLUE": "#9EC1FF",
         "GUILD_BOOSTING_BLUE_FOR_GRADIENTS": "#97B9F4",
         "GUILD_BOOSTING_PINK": "#93B4ED",
@@ -181,13 +185,13 @@
         "BLUE_630": "#6880A8",
         "BLUE_660": "#637BA0",
         "BLUE_700": "#60779B",
-        "WHITE_500": "#b58ef5",
+        "WHITE_500": "#fff",
         "BLACK_500": "#fff",
         "WHITE_630": "#676977"
     },
     "background": {
         "blur": 0.1,
-        "url": "https://i.imgur.com/nJ1Pj3p.png"
+        "url": "https://raw.githubusercontent.com/mudrhiod/BunnyThemes/refs/heads/main/assets/rosieblue.png"
     },
     "plus": {
        "version": "0",
@@ -211,26 +215,6 @@
           "StatusDND": "#97B9F4",
           "StatusOffline": "#bebee3"
             }
-    },
-    "fonts":{
-          "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-ExtraBold.ttf?raw=1",
-          "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Bold.ttf?raw=1",
-          "ggsans-BoldItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-BoldItalic.ttf?raw=1",
-          "ggsans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-ExtraBold.ttf?raw=1",
-          "ggsans-ExtraBoldItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-ExtraBoldItalic.ttf?raw=1",
-          "ggsans-Medium": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Medium.ttf?raw=1",
-          "ggsans-MediumItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-MediumItalic.ttf?raw=1",
-          "ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Normal.ttf?raw=1",
-          "ggsans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-NormalItalic.ttf?raw=1",
-          "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-SemiBold.ttf?raw=1",
-          "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-SemiBoldItalic.ttf?raw=1",
-          "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Bold.ttf?raw=1",
-          "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-ExtraBold.ttf?raw=1",
-          "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Medium.ttf?raw=1",
-          "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Normal.ttf?raw=1",
-          "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-NormalItalic.ttf?raw=1",
-          "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-SemiBold.ttf?raw=1",
-          "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-SemiBold.ttf?raw=1"
     },
     "spec": 2
     }
